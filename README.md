@@ -1,5 +1,3 @@
-# naveendatanalytics.github.io
-
 # Cyclistic-Bike-share
 ---
 title: "Cyclistic bike share analysis"
